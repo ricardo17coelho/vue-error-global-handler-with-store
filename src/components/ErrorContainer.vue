@@ -1,6 +1,7 @@
 <template>
   <h1>Oh no!</h1>
   <div>{{ error }}</div>
+  <button @click="$router.push('/')">Go to Home</button>
 </template>
 
 <script lang="ts" setup>

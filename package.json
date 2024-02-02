@@ -39,6 +39,7 @@
     "url": "https://github.com/ricardo.coelho/keep-alive-example.git"
   },
   "dependencies": {
+    "pinia": "^2.1.7",
     "vue-router": "^4.2.5"
   }
 }
